@@ -82,21 +82,21 @@ endmodule
 
 **RTL Schematic:**
 
-# Half Adder
+**Half Adder**
 ![Screenshot 2024-09-24 101306](https://github.com/user-attachments/assets/e6932dae-eae5-4304-9a7c-9edca6dd0241)
 
 
-# Half Subtractor
+ **Half Subtractor**
 ![Screenshot 2024-09-24 101331](https://github.com/user-attachments/assets/e1b15ac3-8afd-4feb-88d9-74812215b38b)
 
 
 **Output/TIMING Waveform:**
 
-# Half Adder
+**Half Adder**
 ![Screenshot 2024-09-24 101356](https://github.com/user-attachments/assets/7c785708-18cd-4612-a79c-2f21e2bdfd61)
 
 
-# Half Subtractor
+**Half Subtractor**
 ![Screenshot 2024-09-24 101412](https://github.com/user-attachments/assets/c72b1ea8-1208-4226-a356-973aa597dddd)
 
 
